@@ -1,1 +1,1 @@
-Esse site é uma ferramente de gestão de clientes, para empresas que fazem instalações de ERP e precisam saber em que etapa se ecnontram seus clientes. Se estão em fase de instalação, treinamento, upgrade, etc.
+Esse site é uma ferramenta de gestão de clientes, para empresas que fazem instalações de ERP e precisam saber em que etapa seus clientes estão. Se estão em fase de instalação, treinamento, upgrade, etc.
